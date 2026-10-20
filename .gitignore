@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+.next/
+.nuxt/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.sqlite3
+
+# Generated projects
+generated_projects/*/
+
+# Build artifacts
+frontend/dist/
+
+# Logs
+*.log
+
+# Coverage
+htmlcov/
+.coverage
+coverage/
+
+# Pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
